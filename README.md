@@ -1,6 +1,6 @@
 # Blitzong
 <Img src="https://i.ibb.co/Qf80WwX/blitzong.jpg"/>
-# the music app and website that is my favorite's Spoitfy Playlist. This app make you feel good to study, chill and calm to do anything.
+The music app and website that is my favorite's Spoitfy Playlist. This app make you feel good to study, chill and calm to do anything.
 
 # Getting Started with Create React App
 
